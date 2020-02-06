@@ -1,0 +1,5 @@
+
+config:
+  mime-type: .txt
+  max-size: 100
+

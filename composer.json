@@ -1,0 +1,17 @@
+{
+    "name": "jaymay/search-finder",
+    "description": "Search string in file",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ],
+        "psr-4": {
+            "StringSearch\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
